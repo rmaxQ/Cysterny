@@ -1,0 +1,16 @@
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\bin\Debug\net5.0\plik.txt
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\bin\Debug\net5.0\Plugin2.deps.json
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\bin\Debug\net5.0\Plugin2.dll
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\bin\Debug\net5.0\ref\Plugin2.dll
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\bin\Debug\net5.0\Plugin2.pdb
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\bin\Debug\net5.0\Cysterny.dll
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\bin\Debug\net5.0\Cysterny.pdb
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\obj\Debug\net5.0\Plugin2.csproj.AssemblyReference.cache
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\obj\Debug\net5.0\Plugin2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\obj\Debug\net5.0\Plugin2.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\obj\Debug\net5.0\Plugin2.AssemblyInfo.cs
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\obj\Debug\net5.0\Plugin2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\obj\Debug\net5.0\Plugin2.csproj.CopyComplete
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\obj\Debug\net5.0\Plugin2.dll
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\obj\Debug\net5.0\ref\Plugin2.dll
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\zad-3---cysterny-rmaxQ\Plugin2\obj\Debug\net5.0\Plugin2.pdb

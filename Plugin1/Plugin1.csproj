@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cysterny\Cysterny.csproj" />
+  </ItemGroup>
+
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="xcopy /y &quot;$(ProjectDir)bin\Debug\net5.0\*.dll&quot; &quot;$(SolutionDir)bin\Debug\net5.0&quot;&#xD;&#xA;" />
+  </Target>
+
+</Project>
